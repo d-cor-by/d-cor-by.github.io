@@ -21,6 +21,8 @@ import {
 
 import {
   faCcVisa,
+  faTelegram,
+  faViber,
 } from '@fortawesome/free-brands-svg-icons'
 
 library.add(
@@ -34,6 +36,8 @@ library.add(
   faCcVisa,
   faSliders,
   faAngleUp,
+  faTelegram,
+  faViber,
 )
 
 export default () => {
